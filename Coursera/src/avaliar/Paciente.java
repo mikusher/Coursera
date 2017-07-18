@@ -3,7 +3,7 @@
 
 
 
-package semana1;
+package avaliar;
 
 
 
@@ -67,9 +67,9 @@ public class Paciente {
             return ("Obesidade grau II");
 
         } else if (IMC >= 40) {
-            return ("Obesidade grau III (obesidade m�rbida)");
+            return ("Obesidade grau III (obesidade morbida)");
 
         }
-        return "Obesidade grau III (obesidade m�rbida)";
+        return "Obesidade grau III (obesidade morbida)";
     }
 }

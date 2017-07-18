@@ -91,10 +91,10 @@ public class Paciente {
             mensagem = "Obesidade grau II";
 
         } else if (imc >= 40) {
-            mensagem = "Obesidade grau III (obesidade mórbida)";
+            mensagem = "Obesidade grau III (obesidade morbida)";
 
         } else {
-            mensagem = "Não foi possivel calcular";
+            mensagem = "N�o foi possivel calcular";
         }
         return mensagem;
     }

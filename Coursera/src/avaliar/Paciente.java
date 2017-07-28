@@ -11,7 +11,7 @@ package avaliar;
 
 public class Paciente {
 
-    // Atributos
+    // Atributos do pacinete
     double peso;
     double altura;
     double IMC;
